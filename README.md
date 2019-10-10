@@ -1,1 +1,1 @@
-# consoleappwithmaria
+# ConsoleApp with MariaDB
